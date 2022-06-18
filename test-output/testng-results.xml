@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-26T16:29:31 IST" name="Default suite" finished-at="2022-05-26T16:29:31 IST" duration-ms="83">
+    <groups>
+    </groups>
+    <test started-at="2022-05-26T16:29:31 IST" name="Default test" finished-at="2022-05-26T16:29:31 IST" duration-ms="83">
+      <class name="TestNG_Annotation.Class2">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:TestNG_Annotation.Class2@353d0772]" started-at="2022-05-26T16:29:31 IST" name="beforeClass" finished-at="2022-05-26T16:29:31 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:TestNG_Annotation.Class2@353d0772]" started-at="2022-05-26T16:29:31 IST" name="beforemethod" finished-at="2022-05-26T16:29:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="testcasesB()[pri:-1, instance:TestNG_Annotation.Class2@353d0772]" started-at="2022-05-26T16:29:31 IST" name="testcasesB" finished-at="2022-05-26T16:29:31 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasesB -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:TestNG_Annotation.Class2@353d0772]" started-at="2022-05-26T16:29:31 IST" name="aftermethod" finished-at="2022-05-26T16:29:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:TestNG_Annotation.Class2@353d0772]" started-at="2022-05-26T16:29:31 IST" name="beforemethod" finished-at="2022-05-26T16:29:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="testcasesC()[pri:0, instance:TestNG_Annotation.Class2@353d0772]" started-at="2022-05-26T16:29:31 IST" name="testcasesC" finished-at="2022-05-26T16:29:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasesC -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:TestNG_Annotation.Class2@353d0772]" started-at="2022-05-26T16:29:31 IST" name="aftermethod" finished-at="2022-05-26T16:29:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:TestNG_Annotation.Class2@353d0772]" started-at="2022-05-26T16:29:31 IST" name="beforemethod" finished-at="2022-05-26T16:29:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="testcasesA()[pri:1, instance:TestNG_Annotation.Class2@353d0772]" started-at="2022-05-26T16:29:31 IST" name="testcasesA" finished-at="2022-05-26T16:29:31 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasesA -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:TestNG_Annotation.Class2@353d0772]" started-at="2022-05-26T16:29:31 IST" name="aftermethod" finished-at="2022-05-26T16:29:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:TestNG_Annotation.Class2@353d0772]" started-at="2022-05-26T16:29:31 IST" name="afterclass" finished-at="2022-05-26T16:29:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- TestNG_Annotation.Class2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
